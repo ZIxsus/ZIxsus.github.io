@@ -1,2 +1,2 @@
-# ZIxsus.github.io
+# sizu-wl.github.io
 Тестовый сайт 
